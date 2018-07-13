@@ -8,8 +8,6 @@ Countdown : Time Battle is a flexible and simple timer application with no compl
 
 ▸ High-brightness, clear-cut screen
 
-▸ pure gesture operation
-
 ▸ Easy to set time
 
 
