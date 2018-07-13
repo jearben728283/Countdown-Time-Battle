@@ -5,9 +5,13 @@ Countdown : Time Battle is a flexible and simple timer application with no compl
 [Feature]
 
 ▸ free
+
 ▸ High-brightness, clear-cut screen
+
 ▸ pure gesture operation
+
 ▸ Easy to set time
+
 
 Tel:+442076359684
 
